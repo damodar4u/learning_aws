@@ -8,6 +8,10 @@ elb
 route56
 
 s3
+- cross account access with IAM user
+- AWS - Implementing Cross Account Role Access
+- AWS S3 Cross Region Replication
+
 
 ecs
 
