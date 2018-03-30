@@ -17,6 +17,7 @@ Side car pattern
 microservices
 
 
+ALB (Application Load Balancer)
 
 ![Alt text](iptargetgroup.JPG?raw=true "iptargetgroup")
 
