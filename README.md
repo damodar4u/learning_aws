@@ -22,6 +22,12 @@ ALB (Application Load Balancer)
 
 ######################################
 
+ELB.JPG
+
+![Alt text](ELB.JPG?raw=true "ELB")
+
+
+iptargetgroup.jpg
 
 ![Alt text](iptargetgroup.JPG?raw=true "iptargetgroup")
 
