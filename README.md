@@ -78,5 +78,7 @@ MigrationWizard1.JPG
 ![Alt text](MigrationWizard1.JPG?raw=true "MigrationWizard1")
 
 
+When_To_Use_ALB.JPG
 
+![Alt text](When_To_Use_ALB.JPG?raw=true "When_To_Use_ALB")
 
