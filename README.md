@@ -82,5 +82,7 @@ When_To_Use_ALB.JPG
 
 Feature breakdown of ALB vs NLB vs CLB
 
+For TCP use NLB for all other usecases use ALB
+
 ![Alt text](When_To_Use_ALB.JPG?raw=true "When_To_Use_ALB")
 
