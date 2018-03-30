@@ -45,21 +45,28 @@ MultipleAZ1.JPG
 
 CrosszoneLB_No.JPG
 
-distribution of requests not even between instances
-
 ![Alt text](CrosszoneLB_No.JPG?raw=true "CrosszoneLB_No")
 
 
 With Crosszone LB
 
-distribution of requests  even between instances
-
-
 ![Alt text](CrosszoneLB_Yes.JPG?raw=true "CrosszoneLB_Yes")
 
+Cloudwatch_TargetGroup_Metrics.JPG
+
+![Alt text](Cloudwatch_TargetGroup_Metrics.JPG?raw=true "Cloudwatch_TargetGroup_Metrics")
 
 
+access_logs.JPG
 
+ship access logs from ALB ever 5 to 60 min to s3
+
+![Alt text](access_logs.JPG?raw=true "access_logs")
+
+
+migrating.JPG
+
+![Alt text](migrating.JPG?raw=true "migrating")
 
 
 
