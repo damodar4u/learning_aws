@@ -38,6 +38,10 @@ Architecture.JPG
 
 ![Alt text](Architecture.JPG?raw=true "Architecture")
 
+Features.JPG
+
+![Alt text](Features.JPG?raw=true "Features")
+
 iptargetgroup.jpg
 
 ![Alt text](iptargetgroup.JPG?raw=true "iptargetgroup")
