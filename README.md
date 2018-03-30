@@ -35,9 +35,11 @@ ipastarget.JPG
 
 
 MultipleAZ.JPG
+
 ![Alt text](MultipleAZ.JPG?raw=true "MultipleAZ")
 
 MultipleAZ1.JPG
+
 ![Alt text](MultipleAZ1.JPG?raw=true "MultipleAZ1")
 
 
