@@ -45,10 +45,15 @@ MultipleAZ1.JPG
 
 CrosszoneLB_No.JPG
 
+distribution of requests not even between instances
+
 ![Alt text](CrosszoneLB_No.JPG?raw=true "CrosszoneLB_No")
 
 
 With Crosszone LB
+
+distribution of requests  even between instances
+
 
 ![Alt text](CrosszoneLB_Yes.JPG?raw=true "CrosszoneLB_Yes")
 
