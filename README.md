@@ -26,6 +26,9 @@ ELB.JPG
 
 ![Alt text](ELB.JPG?raw=true "ELB")
 
+L4_VS_L7.JPG
+
+![Alt text](L4_VS_L7.JPG?raw=true "L4_VS_L7")
 
 iptargetgroup.jpg
 
