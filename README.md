@@ -24,3 +24,7 @@ microservices
 downscaling.JPG
 
 ![Alt text](downscaling.JPG?raw=true "downscaling")
+
+healthcheck.JPG
+
+![Alt text](healthcheck.JPG?raw=true "healthcheck")
