@@ -34,6 +34,10 @@ ELB_Family.JPG
 
 ![Alt text](ELB_Family.JPG?raw=true "ELB_Family")
 
+Architecture.JPG
+
+![Alt text](Architecture.JPG?raw=true "Architecture")
+
 iptargetgroup.jpg
 
 ![Alt text](iptargetgroup.JPG?raw=true "iptargetgroup")
