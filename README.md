@@ -19,3 +19,8 @@ microservices
 
 
 ![Alt text](iptargetgroup.JPG?raw=true "iptargetgroup")
+
+
+downscaling.JPG
+
+![Alt text](downscaling.JPG?raw=true "downscaling")
