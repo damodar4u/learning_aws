@@ -9,6 +9,6 @@ s3
 cross account access with IAM user
 
 
-![Alt text](Cross_Account_s3.PNG?raw=true "Cross_Account_s3")
+![Alt text](learning_aws/Cross_Account_s3.PNG?raw=true "Cross_Account_s3")
 
 
