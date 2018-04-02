@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 s3
 - cross account access with IAM user
 - AWS - Implementing Cross Account Role Access
