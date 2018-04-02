@@ -62,7 +62,7 @@ aws s3 cp s3://a1_bucket<from different account>/1.txt s3://a2_bucket<to_bucket_
 
 
 
-![Alt text](Cross_Account_s3.PNG?raw=true "Cross_Account_s3")
+![Alt text](Cross_Account_s3.JPG?raw=true "Cross_Account_s3")
 
 
 
